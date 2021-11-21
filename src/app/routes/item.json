@@ -1,0 +1,52 @@
+{
+    "_id": "6173d6ecb1c3d8df6cb2528d",
+    "IDUser": "616fe70ced1f0707591ec46d",
+    "cartItems": [
+        {
+            "IDproduct": "616ebae4cfd5d32017d3e535",
+            "quantity": 1,
+            "title": "Sữa tắm cho chó Pug – Perfect Coat",
+            "price": 20,
+            "_id": "618385d16df7f2544d09eff5"
+        },
+        {
+            "IDproduct": "61629d7508a01b83ec87ccfa",
+            "quantity": 1,
+            "title": "Sản Phẩm Tắm Gội Cho Cún Yêu SLEEKY",
+            "price": 120,
+            "_id": "618a254b79ecc37977aad540"
+        },
+        {
+            "IDproduct": "6172cb74d341d1e271501b2c",
+            "quantity": 1,
+            "title": "Thức ăn cho chó con cỡ nhỏ ROYAL CANIN Mini Puppy",
+            "price": 185000,
+            "_id": "618a256300690931e5122f03"
+        },
+        {
+            "IDproduct": "6172cb74d341d1e271501b2c",
+            "quantity": 1,
+            "title": "Thức ăn cho chó con cỡ nhỏ ROYAL CANIN Mini Puppy",
+            "price": 185000,
+            "_id": "619a4b8f983cd4abc2262fef"
+        },
+        {
+            "IDproduct": "6172cb74d341d1e271501b2c",
+            "quantity": 1,
+            "title": "Thức ăn cho chó con cỡ nhỏ ROYAL CANIN Mini Puppy",
+            "price": 185000,
+            "_id": "619a7ad4db8e2bb2ad35579a"
+        },
+        {
+            "IDproduct": "61961c0726aa9f676526b812",
+            "quantity": 1,
+            "title": "Sữa bột cho chó Boramy",
+            "price": 165000,
+            "_id": "619a7af393910b3c3b8a16de"
+        }
+    ],
+    "total": 720140,
+    "createdAt": "2021-10-23T09:33:32.239Z",
+    "updatedAt": "2021-11-21T16:59:31.399Z",
+    "__v": 0
+}

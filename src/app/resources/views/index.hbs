@@ -1,0 +1,17 @@
+{{#each items}}
+<div class="item">
+    <div class="item-id">
+        {{this.IDproduct}}
+    </div>
+    <div class="item-price">
+        {{this.price}}
+    </div>
+    <div class="item-quantity">
+        {{this.quantity}}
+    </div>
+{{/each}}
+
+    <form action="/pay" method="POST">
+    <input type="submit" values="BUY">
+    </form>
+</div>
